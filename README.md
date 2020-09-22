@@ -1,1 +1,1 @@
-[See the bookmarklets](6zz.github.io/bookmarklets)
+[See the bookmarklets](https://6zz.github.io/bookmarklets)
