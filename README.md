@@ -1,1 +1,1 @@
-# bookmarklets.sz.github.io
+[See the bookmarklets](6zz.github.io/bookmarklets)
